@@ -50,8 +50,9 @@ python password_inspector.py
 
 Ejemplo:
 
-```
 <img width="755" height="215" alt="imagen" src="https://github.com/user-attachments/assets/104d04ac-1df5-496d-9cd0-0f5fced6f2cf" />
+```
+
 
 🔐 Password Strength Inspector 🔍
 Ingresa tu contraseña: *********
